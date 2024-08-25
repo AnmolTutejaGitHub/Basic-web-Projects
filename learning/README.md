@@ -1,0 +1,1 @@
+Mostly learning API calls , ajax,sync,await,promise etc
