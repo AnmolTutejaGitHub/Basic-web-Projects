@@ -13,7 +13,8 @@ function generate() {
             const img = document.querySelector("img");
             const para = document.querySelector("h1");
             para.textContent = meme.name;
-            img.src = meme.url;
+            //img.src = meme.url;
+            img.setAttribute("src", meme.url);
         })
         .catch(error => console.error('Error:', error));
 }
