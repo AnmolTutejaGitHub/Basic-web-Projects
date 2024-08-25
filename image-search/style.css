@@ -1,0 +1,51 @@
+body {
+    background: rgb(49, 49, 191);
+}
+
+h1 {
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    background-color: rgb(145, 151, 169);
+    height: 40px;
+    width: 400px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(145, 151, 169);
+    width: 500px;
+    position: relative;
+    left: 35%;
+    border-radius: 5px;
+
+}
+
+.searchbtn {
+    background: none;
+    border: none;
+}
+
+.fa-search {
+    color: white;
+    font-size: 20px;
+}
+
+.display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 50px;
+}
