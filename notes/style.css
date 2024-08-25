@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #4158D0;
+    font-family: Arial, sans-serif;
+}
+
+.notes {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.note {
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 800px;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+
+.eachnote {
+    display: flex;
+    flex-direction: row;
+}
+
+.add {
+    margin-top: 20px;
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.heading {
+    color: white;
+    margin-top: 80px;
+    margin-left: 400px;
+}
+
+hr {
+    width: 50%;
+}
+
+.begin {
+    margin-left: 45%;
+}
