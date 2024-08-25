@@ -1,0 +1,402 @@
+{
+    "0": {
+        "quote": "May the Force be with you.",
+        "Author": "Star Wars, 1977"
+    },
+    "1": {
+        "quote": "There's no place like home.",
+        "Author": "The Wizard of Oz, 1939"
+    },
+    "2": {
+        "quote": "I'm the king of the world!",
+        "Author": "Titanic, 1997"
+    },
+    "3": {
+        "quote": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+        "Author": "Forrest Gump, 1994"
+    },
+    "4": {
+        "quote": "I'll be back.",
+        "Author": "The Terminator, 1984"
+    },
+    "5": {
+        "quote": "Keep your friends close, but your enemies closer.",
+        "Author": "The Godfather Part II, 1974"
+    },
+    "6": {
+        "quote": "Why so serious?",
+        "Author": "The Dark Knight, 2008"
+    },
+    "7": {
+        "quote": "Show me the money!",
+        "Author": "Jerry Maguire, 1996"
+    },
+    "8": {
+        "quote": "I'm walking here!",
+        "Author": "Midnight Cowboy, 1969"
+    },
+    "9": {
+        "quote": "You talkin' to me?",
+        "Author": "Taxi Driver, 1976"
+    },
+    "10": {
+        "quote": "Here's looking at you, kid.",
+        "Author": "Casablanca, 1942"
+    },
+    "11": {
+        "quote": "I coulda been a contender.",
+        "Author": "On the Waterfront, 1954"
+    },
+    "12": {
+        "quote": "I am Iron Man.",
+        "Author": "Iron Man, 2008"
+    },
+    "13": {
+        "quote": "With great power comes great responsibility.",
+        "Author": "Spider-Man, 2002"
+    },
+    "14": {
+        "quote": "I'm always angry.",
+        "Author": "The Avengers, 2012"
+    },
+    "15": {
+        "quote": "I have nothing to prove to you.",
+        "Author": "Black Panther, 2018"
+    },
+    "16": {
+        "quote": "Whatever it takes.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "17": {
+        "quote": "I am inevitable.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "18": {
+        "quote": "This is a one-time offer.",
+        "Author": "Joker, 2019"
+    },
+    "19": {
+        "quote": "You get what you deserve!",
+        "Author": "Joker, 2019"
+    },
+    "20": {
+        "quote": "Is it just me, or is it getting crazier out there?",
+        "Author": "Joker, 2019"
+    },
+    "21": {
+        "quote": "We're all just walking each other home.",
+        "Author": "Shutter Island, 2010"
+    },
+    "22": {
+        "quote": "The world is a madhouse.",
+        "Author": "Shutter Island, 2010"
+    },
+    "23": {
+        "quote": "I’m not in danger, Skyler. I am the danger.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "24": {
+        "quote": "To infinity and beyond!",
+        "Author": "Toy Story, 1995"
+    },
+    "25": {
+        "quote": "You can't handle the truth!",
+        "Author": "A Few Good Men, 1992"
+    },
+    "26": {
+        "quote": "You had me at hello.",
+        "Author": "Jerry Maguire, 1996"
+    },
+    "27": {
+        "quote": "Say hello to my little friend!",
+        "Author": "Scarface, 1983"
+    },
+    "28": {
+        "quote": "I see dead people.",
+        "Author": "The Sixth Sense, 1999"
+    },
+    "29": {
+        "quote": "The truth is out there.",
+        "Author": "The X-Files, TV Series"
+    },
+    "30": {
+        "quote": "There is no spoon.",
+        "Author": "The Matrix, 1999"
+    },
+    "31": {
+        "quote": "I am Groot.",
+        "Author": "Guardians of the Galaxy, 2014"
+    },
+    "32": {
+        "quote": "I've made a huge mistake.",
+        "Author": "Arrested Development, TV Series"
+    },
+    "33": {
+        "quote": "Why so serious?",
+        "Author": "The Dark Knight, 2008"
+    },
+    "34": {
+        "quote": "You know nothing, Jon Snow.",
+        "Author": "Game of Thrones, TV Series"
+    },
+    "35": {
+        "quote": "I'm not a smart man, but I know what love is.",
+        "Author": "Forrest Gump, 1994"
+    },
+    "36": {
+        "quote": "I feel the need - the need for speed.",
+        "Author": "Top Gun, 1986"
+    },
+    "37": {
+        "quote": "Keep the change, ya filthy animal!",
+        "Author": "Home Alone, 1990"
+    },
+    "38": {
+        "quote": "Inconceivable!",
+        "Author": "The Princess Bride, 1987"
+    },
+    "39": {
+        "quote": "I am your father.",
+        "Author": "Star Wars: Episode V – The Empire Strikes Back, 1980"
+    },
+    "40": {
+        "quote": "Nobody puts Baby in a corner.",
+        "Author": "Dirty Dancing, 1987"
+    },
+    "41": {
+        "quote": "I coulda been a contender.",
+        "Author": "On the Waterfront, 1954"
+    },
+    "42": {
+        "quote": "You can’t handle the truth!",
+        "Author": "A Few Good Men, 1992"
+    },
+    "43": {
+        "quote": "Here’s looking at you, kid.",
+        "Author": "Casablanca, 1942"
+    },
+    "44": {
+        "quote": "I’m just a girl, standing in front of a boy, asking him to love her.",
+        "Author": "Notting Hill, 1999"
+    },
+    "45": {
+        "quote": "It’s alive!",
+        "Author": "Frankenstein, 1931"
+    },
+    "46": {
+        "quote": "I’m not in danger, Skyler. I am the danger.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "47": {
+        "quote": "Say my name.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "48": {
+        "quote": "I am the one who knocks!",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "49": {
+        "quote": "Yeah, science!",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "50": {
+        "quote": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "51": {
+        "quote": "To infinity and beyond!",
+        "Author": "Toy Story, 1995"
+    },
+    "52": {
+        "quote": "Keep your friends close, but your enemies closer.",
+        "Author": "The Godfather Part II, 1974"
+    },
+    "53": {
+        "quote": "Life is like a box of chocolates.",
+        "Author": "Forrest Gump, 1994"
+    },
+    "54": {
+        "quote": "I'm just a girl, standing in front of a boy, asking him to love her.",
+        "Author": "Notting Hill, 1999"
+    },
+    "55": {
+        "quote": "You can’t handle the truth!",
+        "Author": "A Few Good Men, 1992"
+    },
+    "56": {
+        "quote": "I’m the king of the world!",
+        "Author": "Titanic, 1997"
+    },
+    "57": {
+        "quote": "I am Iron Man.",
+        "Author": "Iron Man, 2008"
+    },
+    "58": {
+        "quote": "With great power comes great responsibility.",
+        "Author": "Spider-Man, 2002"
+    },
+    "59": {
+        "quote": "I have nothing to prove to you.",
+        "Author": "Black Panther, 2018"
+    },
+    "60": {
+        "quote": "Whatever it takes.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "61": {
+        "quote": "I am inevitable.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "62": {
+        "quote": "This is a one-time offer.",
+        "Author": "Joker, 2019"
+    },
+    "63": {
+        "quote": "You get what you deserve!",
+        "Author": "Joker, 2019"
+    },
+    "64": {
+        "quote": "Is it just me, or is it getting crazier out there?",
+        "Author": "Joker, 2019"
+    },
+    "65": {
+        "quote": "The world is a madhouse.",
+        "Author": "Shutter Island, 2010"
+    },
+    "66": {
+        "quote": "Say hello to my little friend!",
+        "Author": "Scarface, 1983"
+    },
+    "67": {
+        "quote": "I see dead people.",
+        "Author": "The Sixth Sense, 1999"
+    },
+    "68": {
+        "quote": "The truth is out there.",
+        "Author": "The X-Files, TV Series"
+    },
+    "69": {
+        "quote": "There is no spoon.",
+        "Author": "The Matrix, 1999"
+    },
+    "70": {
+        "quote": "I am Groot.",
+        "Author": "Guardians of the Galaxy, 2014"
+    },
+    "71": {
+        "quote": "You know nothing, Jon Snow.",
+        "Author": "Game of Thrones, TV Series"
+    },
+    "72": {
+        "quote": "I'm the one who knocks.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "73": {
+        "quote": "Say my name.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "74": {
+        "quote": "Yeah, science!",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "75": {
+        "quote": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "76": {
+        "quote": "We're all just walking each other home.",
+        "Author": "Shutter Island, 2010"
+    },
+    "77": {
+        "quote": "The world is a madhouse.",
+        "Author": "Shutter Island, 2010"
+    },
+    "78": {
+        "quote": "I'm just a girl, standing in front of a boy, asking him to love her.",
+        "Author": "Notting Hill, 1999"
+    },
+    "79": {
+        "quote": "I coulda been a contender.",
+        "Author": "On the Waterfront, 1954"
+    },
+    "80": {
+        "quote": "I'm the king of the world!",
+        "Author": "Titanic, 1997"
+    },
+    "81": {
+        "quote": "I have nothing to prove to you.",
+        "Author": "Black Panther, 2018"
+    },
+    "82": {
+        "quote": "Whatever it takes.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "83": {
+        "quote": "I am inevitable.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "84": {
+        "quote": "This is a one-time offer.",
+        "Author": "Joker, 2019"
+    },
+    "85": {
+        "quote": "You get what you deserve!",
+        "Author": "Joker, 2019"
+    },
+    "86": {
+        "quote": "Is it just me, or is it getting crazier out there?",
+        "Author": "Joker, 2019"
+    },
+    "87": {
+        "quote": "Say hello to my little friend!",
+        "Author": "Scarface, 1983"
+    },
+    "88": {
+        "quote": "I see dead people.",
+        "Author": "The Sixth Sense, 1999"
+    },
+    "89": {
+        "quote": "You can't handle the truth!",
+        "Author": "A Few Good Men, 1992"
+    },
+    "90": {
+        "quote": "I'm the one who knocks.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "91": {
+        "quote": "Say my name.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "92": {
+        "quote": "Yeah, science!",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "93": {
+        "quote": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "94": {
+        "quote": "I'm not in danger, Skyler. I am the danger.",
+        "Author": "Breaking Bad, TV Series"
+    },
+    "95": {
+        "quote": "Say hello to my little friend!",
+        "Author": "Scarface, 1983"
+    },
+    "96": {
+        "quote": "I am inevitable.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "97": {
+        "quote": "Whatever it takes.",
+        "Author": "Avengers: Endgame, 2019"
+    },
+    "98": {
+        "quote": "I'm always angry.",
+        "Author": "The Avengers, 2012"
+    },
+    "99": {
+        "quote": "With great power comes great responsibility.",
+        "Author": "Spider-Man, 2002"
+    }
+}
